@@ -12,3 +12,5 @@ This feature scrapes website images. I will not work with some secured images.
 
 ## Image Resizer
 This feature will resize any images into 1024px by 768px
+
+
