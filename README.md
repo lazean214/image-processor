@@ -1,4 +1,4 @@
-### Image Processor App
+# Image Processor App
 
 ## PDF to JPG Extraction 
 This feature is to extract all images found in a PDF document.
